@@ -13,7 +13,7 @@ This is a text editor that is downloadable for use on the web or in your desktop
 
 
 ## 🚀 Deployment
-https://peaceful-moxie-1a32de.netlify.app/
+https://text-editor-johan.herokuapp.com/
 
 ## 📸 Screen Shots
 ![](./assets/cover.png)
