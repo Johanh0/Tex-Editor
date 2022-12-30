@@ -1,0 +1,28 @@
+{
+  "name": "text-editor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Johanh0/Tex-Editor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Johanh0/Tex-Editor/issues"
+  },
+  "homepage": "https://github.com/Johanh0/Tex-Editor#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "if-env": "^1.0.4"
+  },
+    "devDependencies": {
+    "concurrently": "^5.2.0",
+    "nodemon": "^2.0.4"
+  }
+}
